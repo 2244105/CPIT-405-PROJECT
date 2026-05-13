@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   // IMPORTANT: change this to '/your-repo-name/' when deploying to GitHub Pages
-  base: '/kashta-tracker/',
+  base: '/CPIT-405-PROJECT/',
 });
